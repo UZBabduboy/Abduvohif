@@ -1,0 +1,51 @@
+*{
+    margin: 0;
+    padding: 0;
+
+}
+.container{
+    padding: 10px 50px;
+    background-color: rgb(220, 112, 4);
+    justify-content: space-between;
+    align-items: center;
+   display: flex
+   
+
+   
+}
+
+.container h1{
+
+    color:white ;
+}
+
+.container ul{
+  display: flex;
+  list-style: none;
+  gap: 20px;
+  
+ 
+
+}
+
+a{
+
+    color: white;
+    text-decoration: none;
+  
+}
+
+.Image1{
+   padding: 100px 50px;
+   display: flex;
+   
+}
+
+button{
+    background-color: orangered;
+}
+
+input{
+    margin-top: 200px;
+}
+
